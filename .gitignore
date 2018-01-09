@@ -1,0 +1,30 @@
+# Eclipse project fields
+.project
+.classpath
+.settings
+bin/
+
+# IntelliJ IDEA project fields and directories
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Geany project file
+.geany
+
+# Build targets
+/target
+**/target
+/logs
+**/logs
+
+# Mac-specific directory that no other operating system needs.
+.DS_Store
+
+# JVM crash logs
+hs_err_pid*.log
+
+*.bak
+*.sh
+
